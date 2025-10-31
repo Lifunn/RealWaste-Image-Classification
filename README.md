@@ -64,7 +64,4 @@ Performa model pada set data pengujian (test set) adalah sebagai berikut:
 <img width="706" height="568" alt="image" src="https://github.com/user-attachments/assets/cb7ef81e-6799-49dc-8353-990a764b5346" />
 
 
-
-`[GANTI DENGAN SCREENSHOT PLOT TRAINING/VALIDATION LOSS & ACCURACY]`
-
 ---
